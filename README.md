@@ -23,10 +23,4 @@
 
 ### [与我联系 5LOI](https://5loi.com/about_loi)
 
-![DLI Header](Diffusion_Models/images/DLI_Header.png)
-
-代码保持不变，其中文案翻译成中文，通过代码注释的方式解释代码逻辑：
-
-```
-
-```
+![DLI Header](Diffusion_Models/zh/images/certificate.png)
